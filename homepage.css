@@ -18,12 +18,13 @@ img{
     font-weight: bold; 
     font-size: 16px; 
     color: #4a3f3f;  
+    text-decoration: underline;
 }
 
 /* Hover state */
 .navbar-nav .nav-link:hover {
     color: #b69f9f; 
-    text-decoration: underline; 
+    
 }
 .navbar-brand {
     display: flex;
